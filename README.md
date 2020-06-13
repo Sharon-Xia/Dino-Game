@@ -5,12 +5,12 @@ author: Sharon Xia
 
 
 # Controls (User Input):
-A for jump
-B for squat
-1 for start game (from lobby screen)
-* for stop game
-# for reset high score
-C for proceed to lobby screen (from gameover)
+A for jump \n
+B for squat \n
+1 for start game (from lobby screen) \n
+* for stop game \n
+'#' for reset high score \n
+C for proceed to lobby screen (from gameover) \n
 
 
 # Instructions:
